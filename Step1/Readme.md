@@ -1,1 +1,4 @@
-
+Usage:
+```bash
+mkdir build
+```
