@@ -7,4 +7,4 @@ a native build system can be generated; then
 ```bash
 cmake --build .
 ```
-will generates an executable.
+to generate an executable.
